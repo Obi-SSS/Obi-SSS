@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayubi Ocean PUtra</h1>
+<h1 align="center">Hi 👋, I'm Ayubi Ocean Putra</h1>
 <h3 align="center">A Junior High School At IDN Boarding School</h3>
 
 - 📫 How to reach me **ayubicceanputra01@gmail.com**
